@@ -4,6 +4,9 @@
 
 .nav {
     background-color: #6fa8dc;
-    width: 200px;
-    height: 400px;
+    width: 180px;
+    height: 590px;
+    margin: 10px;
+    margin-left: 0px;
+    display: inline-block;
 }
