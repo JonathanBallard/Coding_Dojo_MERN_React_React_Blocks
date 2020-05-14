@@ -3,7 +3,7 @@ import './App.css';
 import Header from './Components/Header';
 import Navigation from './Components/Navigation';
 import Main from './Components/Main';
-import SubContents from './Components/SubContents';
+import Subcontents from './Components/Subcontents';
 import Advertisement from './Components/Advertisement';
  
                 
@@ -13,9 +13,9 @@ function App() {
         <Header />
         <Navigation />
         <Main>
-            <SubContents />
-            <SubContents />
-            <SubContents />
+            <Subcontents />
+            <Subcontents />
+            <Subcontents />
             <Advertisement />
         </Main>
     </div>
